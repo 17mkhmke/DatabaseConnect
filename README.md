@@ -1,3 +1,3 @@
 # DatabaseConnect
 
-#Names: Mkhuseli Mkeyiya & Javier Goodall
+#Names: Mkhuseli Mkeyiya, Javier Goodall & Reece Simons
